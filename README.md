@@ -192,5 +192,3 @@ The following Super Admin account is created automatically:
 - **Role:** `SuperAdmin`
 
 Use these credentials to log in to the application as a Super Admin.
-
-**Note:** These credentials are for local development and assignment evaluation only. Do not use default credentials in production.
