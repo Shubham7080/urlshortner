@@ -177,3 +177,20 @@ ChatGPT was used to assist with UI design and visual layout suggestions.
 
 ## License
 
+### Default Super Admin Account
+
+After running the database seed command:
+
+```bash
+php artisan migrate --seed
+```
+
+The following Super Admin account is created automatically:
+
+- **Email:** `shubham@gmail.com`
+- **Password:** `Admin@123`
+- **Role:** `SuperAdmin`
+
+Use these credentials to log in to the application as a Super Admin.
+
+**Note:** These credentials are for local development and assignment evaluation only. Do not use default credentials in production.
